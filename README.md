@@ -4,6 +4,11 @@
 **Serverless Word Count Automation using AWS Lambda, S3, and SNS**
 
 ---
+### Project Diagram
+
+<img width="1672" height="941" alt="AWS Lambda Word Count Automation" src="https://github.com/user-attachments/assets/52f0216c-5467-487f-9281-5303eaefb887" />
+
+---
 ### Project Overview
 
 This project demonstrates a serverless document-processing workflow using **AWS Lambda, Amazon S3, and Amazon SNS**.  
